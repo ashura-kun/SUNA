@@ -1,0 +1,12 @@
+{
+  "name": "suna-chan",
+  "version": "0.0.0",
+  "description": "",
+  "main": "suna.js",
+  "scripts": {
+  "start": "suna.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
